@@ -1,0 +1,33 @@
+form{
+    background-color: #5696df;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 70px;
+    border-radius: 50px;
+    box-shadow: 0 0 30px rgb(54, 57, 212);
+    text-align: center;
+}
+body {
+    background: linear-gradient(-450deg, #3373d4, rgb(54, 218, 247), rgb(82, 105, 240))
+}
+
+#btn{
+    color:white;
+    width: 250px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 15px;
+    background-color: rgb(72, 24, 245);
+}
+btn:hover{
+    font-size: 18px;
+}
+select{
+    font-size:large;
+    width: 350px;
+ 
+    margin: 0 auto;
+    max-width: 400px;
+    text-align:left;
+    
+}
