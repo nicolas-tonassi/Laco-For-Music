@@ -8,6 +8,8 @@
  ## Introdução 🔧 
  
  O código neste repositório demonstra o uso básico do laço de repetição `for` em JavaScript para exibir uma lista de músicas. A inclusão de mais tipos de música amplia a variedade de gêneros apresentados. 
+
+ <img src= "musica.png">
  
  ## Funcionalidades 🧠 
  
