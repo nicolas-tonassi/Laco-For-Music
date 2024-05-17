@@ -26,5 +26,5 @@
  
 ## Autores 📚
 - Github: [Nicolas Tonassi](https://github.com/nicolas-tonassi); LinkedIn: [Nicolas Tonassi](https://www.linkedin.com/in/nicolas-tonassi-b70a50261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- https://github.com/murilo-tonassi
-- https://github.com/PamelaSouzaSilva
+- [Murilo Tonassi](https://github.com/murilo-tonassi)
+- [Pamela Souza](https://github.com/PamelaSouzaSilva)
